@@ -1,12 +1,11 @@
-<!--  Professional, Minimal & Elegant GitHub Profile README for Parsa Oveshli -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi+,+I'm+Parsa+Oveshli;Frontend+Developer+%26+UI+Designer;Building+fast,+elegant,+and+modern+web+apps" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  Parsa Oveshli
+</h1>
 
 ---
 
-<h3 align="center"> About Me</h3>
+<h3 align="center">🔗 About Me</h3>
 
 <p align="center">
   <samp>
@@ -20,7 +19,7 @@
 
 ---
 
-<h3 align="center"> Tech Stack</h3>
+<h3 align="center">🎌 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,nodejs,mysql,mongodb,git,figma,linux,vscode,vercel,cloudflare&theme=dark" />
@@ -28,25 +27,25 @@
 
 ---
 
-<h3 align="center"> Featured Workflows</h3>
+<h3 align="center">🧩 Featured Workflows</h3>
 
 <p align="center">
   <samp>
-    Building UIs with <b>Next.js + Tailwind</b><br>
-    Designing pixel-perfect components in <b>Figma</b><br>
-    API integration & optimization using <b>Node.js</b><br>
-    Deployment with <b>Vercel + Cloudflare</b>
+  . Building UIs with <b>Next.js + Tailwind</b><br>
+  . Designing pixel-perfect components in <b>Figma</b><br>
+  . API integration & optimization using <b>Node.js</b><br>
+  . Deployment with <b>Vercel + Cloudflare</b>
   </samp>
 </p>
 
 ---
 
-<h3 align="center"> Get In Touch</h3>
+<h3 align="center">⚙️ Get In Touch</h3>
 
 <p align="center">
-  <a href="mailto:parsaoveshli@gmail.com">
+  <!-- <a href="mailto:parsaoveshli@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://t.me/httptodo">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -54,6 +53,9 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://parsaoveshli.ir">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://oveshli.ir">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
