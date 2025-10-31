@@ -1,8 +1,6 @@
 
 <h1 align="center">
-  
   <a href="https://parsaoveshli.ir" style="color: red; text-decoration: none;">Parsa</a>
-  <span style="color: yellow;">&nbsp;
     <a href="https://oveshli.ir" style="color: yellow; text-decoration: none;">Oveshli</a>
   </span>
 </h1>
