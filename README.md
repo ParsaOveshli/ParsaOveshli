@@ -1,6 +1,10 @@
 
 <h1 align="center">
-  Parsa Oveshli
+  
+  <a href="https://parsaoveshli.ir" style="color: red; text-decoration: none;">Parsa</a>
+  <span style="color: yellow;">&nbsp;
+    <a href="https://oveshli.ir" style="color: yellow; text-decoration: none;">Oveshli</a>
+  </span>
 </h1>
 
 ---
@@ -11,9 +15,9 @@
   <samp>
     Frontend Developer with a focus on clean design and scalable architecture.<br>
     I craft performant interfaces and love working where design meets code.<br><br>
-     Based in Tehran, Iran<br>
-     Open for collaboration and freelance opportunities<br>
-     <a href="https://parsaoveshli.ir" target="_blank">parsaoveshli.ir</a>
+     Based in Tehran, Iran<br>
+     Open for collaboration and freelance opportunities<br>
+     <a href="https://parsaoveshli.ir" target="_blank">ParsaOveshli.ir</a>
   </samp>
 </p>
 
