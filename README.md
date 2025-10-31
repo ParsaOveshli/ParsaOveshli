@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://oveshli.ir">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oveshli-ffffff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
