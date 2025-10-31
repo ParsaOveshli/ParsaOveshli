@@ -56,12 +56,12 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://oveshli.ir">
-    <img src="https://img.shields.io/badge/Oveshli-ffffff?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oveshli-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00BFFF,100:1E90FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:FF0000,100:8B0000&section=footer"/>
 </p>
